@@ -33,7 +33,42 @@
             <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software.</p>
         </div><!--/col-md-6-->
     </div><!--/row-->
+
+    <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+        <thead>
+        <tr>
+            <th class="mdl-data-table__cell--non-numeric">Material</th>
+            <th>Quantity</th>
+            <th>Unit price</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td class="mdl-data-table__cell--non-numeric">Acrylic (Transparent)</td>
+            <td>25</td>
+            <td>$2.90</td>
+        </tr>
+        <tr>
+            <td class="mdl-data-table__cell--non-numeric">Plywood (Birch)</td>
+            <td>50</td>
+            <td>$1.25</td>
+        </tr>
+        <tr>
+            <td class="mdl-data-table__cell--non-numeric">Laminate (Gold on Blue)</td>
+            <td>10</td>
+            <td>$2.35</td>
+        </tr>
+        </tbody>
+        <tfoot>
+        <td class="mdl-data-table__cell--non-numeric" colspan="3">
+            This is a footer. Add notes here.
+        </td>
+        </tfoot>
+    </table>
+
+
 </div><!-- /.container -->
+
 <div class="container">
     <div class="row">
         <div class="col-md-10 col-md-offset-1">

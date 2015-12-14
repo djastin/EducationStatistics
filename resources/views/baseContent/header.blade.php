@@ -21,6 +21,10 @@
     <link href="{{url("dist/css/graph_circle.css")}}" rel="stylesheet">
     <link href="{{url("dist/css/titles.css")}}" rel="stylesheet">
     <link href="{{url("dist/css/navbar.css")}}" rel="stylesheet">
+    <!-- Material Design Lite CSS -->
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.indigo-pink.min.css">
+    <!-- Material Design Lite Font Icons -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="{{url("dist/js/ie10-viewport-bug-workaround.js")}}"></script>

@@ -403,3 +403,10 @@ input {
 	margin-top: 100px;
 }
 
+table {
+	margin-top: 40px;
+	margin-left: auto;
+	margin-bottom: 40px;
+	margin-right: auto;
+}
+
