@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>BASIC - Blacktie.co Free Theme</title>
+    <title>HZ - Data Analyse 1</title>
 
     <!-- Bootstrap core CSS -->
     <link href="{{url("bootstrap/bootstrap.css")}}" rel="stylesheet">
@@ -15,7 +15,11 @@
     <!-- Custom styles for this template -->
     <link href="{{url("dist/css/ionicons.min.css")}}" rel="stylesheet">
     <link href="{{url("dist/css/style.css")}}" rel="stylesheet">
-
+    <link href="{{url("dist/css/smooth_state/keyframes.css")}}" rel="stylesheet">
+    <link href="{{url("dist/css/smooth_state/normalize.css")}}" rel="stylesheet">
+    <link href="{{url("dist/css/smooth_state/pageTransitions.css")}}" rel="stylesheet">
+    <link href="{{url("dist/css/graph_circle.css")}}" rel="stylesheet">
+    <link href="{{url("dist/css/titles.css")}}" rel="stylesheet">
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="{{url("dist/js/ie10-viewport-bug-workaround.js")}}"></script>

@@ -1,40 +1,21 @@
 @include('baseContent.header')
 
 <body>
+<div class="container ptb header">
+    <div class="circle">
+        <div id="graph">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
 
+</div>
 
-<div id="h">
-    <div class="logo">
-        <h2>BASIC</h2>
-    </div><!--/logo-->
-    <div class="container centered">
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <h1>Hello, my name is <b>Daniel White</b>.<br/>I create for the web.</h1>
-            </div>
-        </div><!--/row-->
-
-        <div class="row mt">
-            <div class="col-sm-4">
-                <i class="ion-ios7-monitor-outline"></i>
-                <h3>Web Design</h3>
-            </div><!--/col-md-4-->
-
-            <div class="col-sm-4">
-                <i class="ion-ios7-browsers-outline"></i>
-                <h3>UI Development</h3>
-            </div><!--/col-md-4-->
-
-            <div class="col-sm-4">
-                <i class="ion-ios7-copy-outline"></i>
-                <h3>Brand Identity</h3>
-            </div><!--/col-md-4-->
-
-        </div><!--/row-->
-    </div><!--/container-->
-</div><!--H-->
-
-<div class="container ptb">
+<div class="container ptb fullpage">
     <div class="row">
         <h2 class="centered mb">I craft handsome sites & stunning apps<br/>that empower your startup.</h2>
         <div class="col-md-6">
@@ -53,7 +34,7 @@
     </div><!--/row-->
 </div><!--/.container-->
 
-<div id="g">
+<div id="g" class="fullpage">
     <div class="container">
         <div class="row centered">
             <h2>Check some of my latest works.</h2>

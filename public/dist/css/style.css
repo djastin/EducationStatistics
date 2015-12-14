@@ -17,6 +17,11 @@
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
 
+.fullpage
+{
+	min-height: 100%;
+}
+
 * { 
 	margin: 0;
 	padding: 0px;
@@ -26,6 +31,7 @@ body {
 	background: #fff; 
 	margin: 0; 
 	color: #5a5a5a;
+	display: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -199,13 +205,21 @@ input {
 	font-weight: normal !important;
 }
 
+.header
+{
+	width: 100%;
+	min-height: 100%;
+	background-color: #dcedfe;
+}
+
+
 /* HEADER SECTION */
-#h {
-	background: url(../img/header.jpg) no-repeat center top;
+.h {
+	/*background: url(../img/header.jpg) no-repeat center top;*/
 	padding-top: 5px;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 700px;
+	min-height: 500px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -218,6 +232,13 @@ input {
     -o-background-size: cover;
     background-size: cover;
     color: white;
+	background-color: #dcedfe;
+}
+
+.head-title
+{
+	font-family: 'Arial';
+
 }
 
 #h .logo {
@@ -376,3 +397,4 @@ input {
 	margin-top: 30px;
 	letter-spacing: 1px;
 }
+

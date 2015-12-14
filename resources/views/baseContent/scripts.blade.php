@@ -2,6 +2,8 @@
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="{{url("dist/js/jquery.min.js")}}"></script>
+<script src="{{url("dist/js/pageFading.js")}}"></script>
+<script src="{{url("dist/js/jquery.smoothState.js")}}"></script>
 <script src="{{url("dist/js/bootstrap.min.js")}}"></script>
 <script src="{{url("dist/js/retina-1.1.0.js")}}"></script>
 <script src="{{url("dist/js/jquery.hoverdir.js")}}"></script>
