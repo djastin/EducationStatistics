@@ -323,7 +323,7 @@ input {
 	padding-top: 100px;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 450px;
+	min-height: 650px;
 	width: 100%;
 	color: white;
 	
@@ -396,5 +396,10 @@ input {
 #h2 h3 {
 	margin-top: 30px;
 	letter-spacing: 1px;
+}
+
+.sep-container
+{
+	margin-top: 100px;
 }
 

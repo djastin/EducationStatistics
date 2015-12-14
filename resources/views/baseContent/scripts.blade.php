@@ -11,6 +11,8 @@
 <script src="{{url("dist/js/jquery.prettyPhoto.js")}}"></script>
 <script src="{{url("dist/js/jquery.isotope.min.js")}}"></script>
 <script src="{{url("dist/js/custom.js")}}"></script>
+<script src="{{url("dist/js/navbar.js")}}"></script>
+<script src="{{url("dist/js/jquery.nav.js")}}"></script>
 
 
 <script>
